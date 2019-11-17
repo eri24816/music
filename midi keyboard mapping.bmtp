@@ -1,0 +1,83 @@
+[MIDI.routes]
+In0=USB20MIDI
+Out0=Bome MIDI Translator Virtual Out
+
+[Preset.0]
+Name=New Preset
+Active=1
+PresetSwitchIgnore=0
+Name0=c4
+Incoming0=MID1909CE9
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="NoteOn"><Channel num="0"/><Value1 num="0x3C"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00StMa00000001label0006__cmt>
+Name1=c4
+Incoming1=MID1909CC0
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="NoteOff"><Channel num="0"/><Value1 num="0x3C"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00StMa00000001label0006__cmt>
+Name2=b3
+Incoming2=MID1909BC0
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="NoteOff"><Channel num="0"/><Value1 num="0x3B"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00StMa00000001label0006__cmt>
+Name3=b3
+Incoming3=MID1909BE9
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="NoteOn"><Channel num="0"/><Value1 num="0x3B"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00StMa00000001label0006__cmt>
+Name4=A3
+Incoming4=MID19099E9
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="NoteOn"><Channel num="0"/><Value1 num="0x39"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00StMa00000001label0006__cmt>
+Name5=A3
+Incoming5=MID19099C0
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="NoteOff"><Channel num="0"/><Value1 num="0x39"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00StMa00000001label0006__cmt>
+Name6=B2
+Incoming6=MID19097E9
+Outgoing6=MID3<Outgoing Action="MIDI"><Simple Type="NoteOn"><Channel num="0"/><Value1 num="0x2F"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=B2
+Incoming7=MID19097C0
+Outgoing7=MID3<Outgoing Action="MIDI"><Simple Type="NoteOff"><Channel num="0"/><Value1 num="0x2F"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+Name8=D4
+Incoming8=MID1909EE9
+Outgoing8=MID3<Outgoing Action="MIDI"><Simple Type="NoteOn"><Channel num="0"/><Value1 num="0x3E"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options8=Actv01Stop00OutO00
+Name9=D4
+Incoming9=MID1909EC0
+Outgoing9=MID3<Outgoing Action="MIDI"><Simple Type="NoteOff"><Channel num="0"/><Value1 num="0x3E"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options9=Actv01Stop00OutO00
+Name10=G5
+Incoming10=MID190A7E9
+Outgoing10=MID3<Outgoing Action="MIDI"><Simple Type="NoteOn"><Channel num="0"/><Value1 num="0x4F"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options10=Actv01Stop00OutO00
+Name11=G5
+Incoming11=MID190A7C0
+Outgoing11=MID3<Outgoing Action="MIDI"><Simple Type="NoteOff"><Channel num="0"/><Value1 num="0x4F"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options11=Actv01Stop00OutO00
+Name12=A6
+Incoming12=MID190ADE9
+Outgoing12=MID3<Outgoing Action="MIDI"><Simple Type="NoteOn"><Channel num="0"/><Value1 num="0x5D"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options12=Actv01Stop00OutO00
+Name13=A6
+Incoming13=MID190ADC0
+Outgoing13=MID3<Outgoing Action="MIDI"><Simple Type="NoteOff"><Channel num="0"/><Value1 num="0x5D"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options13=Actv01Stop00OutO00
+Name14=A6
+Incoming14=MID190AFE9
+Outgoing14=MID3<Outgoing Action="MIDI"><Simple Type="NoteOn"><Channel num="0"/><Value1 num="0x5F"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options14=Actv01Stop00OutO00
+Name15=A6
+Incoming15=MID190AFC0
+Outgoing15=MID3<Outgoing Action="MIDI"><Simple Type="NoteOff"><Channel num="0"/><Value1 num="0x5F"/><Value2 num="0x4B"/></Simple></Outgoing>
+Options15=Actv01Stop00OutO00
+
+[Project]
+Version=2
+Author=
+AuthorContact=
+Comments=
+AuthorWWW=
+AuthorCopyright=
+DefaultInPorts=MIDA0000
+DefaultOutPorts=MIDA0000
+
